@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/routerspractice/static/css/main.17efc51b.css",
+    "main.js": "/routerspractice/static/js/main.d18f50ed.js",
+    "static/js/754.affaa245.chunk.js": "/routerspractice/static/js/754.affaa245.chunk.js",
+    "static/js/787.051091eb.chunk.js": "/routerspractice/static/js/787.051091eb.chunk.js",
+    "index.html": "/routerspractice/index.html",
+    "main.17efc51b.css.map": "/routerspractice/static/css/main.17efc51b.css.map",
+    "main.d18f50ed.js.map": "/routerspractice/static/js/main.d18f50ed.js.map",
+    "754.affaa245.chunk.js.map": "/routerspractice/static/js/754.affaa245.chunk.js.map",
+    "787.051091eb.chunk.js.map": "/routerspractice/static/js/787.051091eb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.17efc51b.css",
+    "static/js/main.d18f50ed.js"
+  ]
+}
